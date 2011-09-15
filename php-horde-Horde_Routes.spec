@@ -3,12 +3,12 @@
 %include	/usr/lib/rpm/macros.php
 Summary:	%{pearname} - Horde Routes URL mapping system
 Name:		php-horde-Horde_Routes
-Version:	1.0.0
+Version:	1.1.0
 Release:	1
 License:	BSD
 Group:		Development/Languages/PHP
 Source0:	http://pear.horde.org/get/%{pearname}-%{version}.tgz
-# Source0-md5:	93670abdc518e0ae73f3248755b8cfd3
+# Source0-md5:	70ed10bb2f7d702f2e6233b3e7e2642f
 URL:		https://github.com/horde/horde/tree/master/framework/Routes/
 BuildRequires:	php-channel(pear.horde.org)
 BuildRequires:	php-packagexml2cl
