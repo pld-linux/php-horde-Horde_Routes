@@ -1,6 +1,5 @@
 %define		status		stable
 %define		pearname	Horde_Routes
-%include	/usr/lib/rpm/macros.php
 Summary:	%{pearname} - Horde Routes URL mapping system
 Name:		php-horde-Horde_Routes
 Version:	1.1.2
